@@ -1,7 +1,7 @@
 # 🏛️ Central de Acervo & Mídia — Dr. Kevin de Sousa
 > **Sousa & Rosa Advogados Associados** | OAB/PR 96.292 · OAB/SC 71.324  
 > *Acervo Consolidado M2 Comunicação Jurídica (2024 – 2026)*  
-> **Total de Registros:** 836 participações | **Vídeos:** 86 | **Áudios/Rádios:** 76 | **Reportagens:** 654 | **Impressos:** 20
+> **Total de Registros:** 848 participações | **Vídeos:** 86 | **Áudios/Rádios:** 76 | **Reportagens:** 666 | **Impressos:** 20
 
 ---
 
@@ -208,10 +208,22 @@
 
 ---
 
-## 📰 Reportagens Escritas em Portais (654 matérias)
+## 📰 Reportagens Escritas em Portais (666 matérias)
 
 | Data | Portal / Veículo | Domínio | Macroárea | Manchete / Notícia | Link Original |
 |---|---|---|---|---|---|
+| 22-09-2026 | **Primeira Hora** | `primeirahora.com.br` | `Constitucional, STF & Política` | Reforma no Judiciário: confira quais são as propostas de novas regras para o Supremo | [Ler Matéria ↗](https://primeirahora.com.br/reforma-no-judiciario-confira-quais-sao-as-propostas-de-novas-regras-para-o-supremo/) |
+| 21-09-2026 | **O Crente News** | `ocrente.com.br` | `Constitucional, STF & Política` | Crise no STF Abala Confiança na Justiça e Pode Impactar Eleições de 2026 | [Ler Matéria ↗](https://ocrente.com.br/crise-stf-impacto-eleicoes-2026/) |
+| 21-09-2026 | **Central Sul News** | `centralsulnews.com` | `Constitucional, STF & Política` | Crise no STF impacta a justiça brasileira e as eleições de 2022 | [Ler Matéria ↗](https://centralsulnews.com/crise-no-stf-impacta-a-justica-brasileira-e-as-eleicoes-de-2022/) |
+| 21-09-2026 | **Pauta Capixaba** | `pautacapixaba.com.br` | `Constitucional, STF & Política` | Congresso discute novas regras para o STF; veja o que pode mudar para ministros | [Ler Matéria ↗](https://pautacapixaba.com.br/congresso-discute-novas-regras-para-o-stf-veja-o-que-pode-mudar-para-ministros/) |
+| 21-09-2026 | **Agora MT** | `agoramt.com.br` | `Constitucional, STF & Política` | Reforma no Judiciário: confira quais são as propostas de novas regras para o Supremo | [Ler Matéria ↗](https://www.agoramt.com.br/2026/09/reforma-no-judiciario-confira-quais-sao-as-propostas-de-novas-regras-para-o-supremo/) |
+| 21-09-2026 | **Tempo e Dinheiro Oficial** | `tempoedinheirooficial.com.br` | `Constitucional, STF & Política` | Caos no STF pode impactar eleições presidenciais e senadores no Brasil | [Ler Matéria ↗](https://tempoedinheirooficial.com.br/caos-no-stf-pode-impactar-eleicoes-presidenciais-e-senadoras-no-brasil/) |
+| 21-09-2026 | **Folha Vitória** | `uol.com.br` | `Constitucional, STF & Política` | Congresso discute novas regras para o STF; veja o que pode mudar para ministros | [Ler Matéria ↗](https://www.folhavitoria.com.br/politica/congresso-discute-novas-regras-para-o-stf-veja-o-que-pode-mudar-para-ministros/) |
+| 21-09-2026 | **Vox MS** | `voxms.com.br` | `Constitucional, STF & Política` | Congresso acelera reforma para criar mandato no STF e limitar decisões individuais | [Ler Matéria ↗](https://www.voxms.com.br/legislacao/congresso-acelera-reforma-para-criar-mandato-no-stf-e-limitar-decisoes-individuais) |
+| 21-09-2026 | **Portal VV8** | `portalvv8.com.br` | `Constitucional, STF & Política` | Justiça do STF em turbilhão político ameaça definir o futuro das urnas brasileiras | [Ler Matéria ↗](https://portalvv8.com.br/noticia/74128/justica-do-stf-em-turbilhao-politico-ameaca-definir-o-futuro-das-urnas-brasileiras) |
+| 21-09-2026 | **Record / R7** | `r7.com` | `Constitucional, STF & Política` | Reforma no Judiciário: confira quais são as propostas de novas regras para o Supremo | [Ler Matéria ↗](https://noticias.r7.com/brasilia/reforma-no-judiciario-confira-quais-sao-as-propostas-de-novas-regras-para-o-supremo-20092026/) |
+| 21-09-2026 | **Revista Oeste** | `revistaoeste.com` | `Constitucional, STF & Política` | Caos no STF abala justiça brasileira e pode decidir as eleições para residência e Senado | [Ler Matéria ↗](https://revistaoeste.com/politica/caos-no-stf-abala-justica-brasileira-e-pode-decidir-eleicoes/) |
+| 21-09-2026 | **Portal iG** | `ig.com.br` | `Direito Empresarial & Outros` | Plano reajustou tarifa do celular: quais os meus direitos? | [Ler Matéria ↗](https://economia.ig.com.br/2026-09-21/plano-reajustou-tarifa-do-celular--quais-os-meus-direitos-.html) |
 | 18-09-2026 | **Consumo em Pauta** | `consumoempauta.com.br` | `Recuperação Judicial & Falência` | Comprou e a empresa pediu recuperação judicial. E agora? | [Ler Matéria ↗](https://www.consumoempauta.com.br/alertas/comprou-e-a-empresa-pediu-recuperacao-judicial-e-agora/) |
 | 16-09-2026 | **Conex RS** | `conexrs.com.br` | `Direito Imobiliário` | Paralisação na Caixa exige cautela de quem busca financiar imóvel para evitar prejuízos | [Ler Matéria ↗](https://conexrs.com.br/greve-caixa-economica-impacto-imovel/) |
 | 16-09-2026 | **Kwai** | `kwai.com` | `Constitucional, STF & Política` | Estratégia do grupo de Moraes em focar em Fachin foi uma saída técnica para travar a votação, avaliam juristas | [Ler Matéria ↗](https://www.kwai.com/news/detail/e1d6d8b5-0f00-4752-adb3-7faa25a9a94a) |

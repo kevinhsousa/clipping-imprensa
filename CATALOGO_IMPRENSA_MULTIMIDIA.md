@@ -1,14 +1,15 @@
 # 🏛️ Central de Acervo & Mídia — Dr. Kevin de Sousa
 > **Sousa & Rosa Advogados Associados** | OAB/PR 96.292 · OAB/SC 71.324  
 > *Acervo Consolidado M2 Comunicação Jurídica (2024 – 2026)*  
-> **Total de Registros:** 848 participações | **Vídeos:** 86 | **Áudios/Rádios:** 76 | **Reportagens:** 666 | **Impressos:** 20
+> **Total de Registros:** 849 participações | **Vídeos:** 87 | **Áudios/Rádios:** 76 | **Reportagens:** 666 | **Impressos:** 20
 
 ---
 
-## 🎬 Vídeos e Entrevistas em Vídeo (86 itens)
+## 🎬 Vídeos e Entrevistas em Vídeo (87 itens)
 
 | Data | Veículo | Pauta / Tema | Título da Matéria / Vídeo | Link Direto |
 |---|---|---|---|---|
+| 23-09-2026 | **YouTube (Vídeo / Entrevista)** | `Recuperação Judicial & Falência` | Comprou e a empresa pediu recuperação judicial. E agora? | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=WbPR0DxXH4Q) |
 | 17-09-2026 | **BM&C News** | `Constitucional, STF & Política` | STF em impasse: quais os próximos passos nos casos Moraes e Mendonça? | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=IOs2umRa18A) |
 | 17-09-2026 | **BM&C News** | `Constitucional, STF & Política` | Sessão tensa no STF expõe crise de confiança e polarização entre ministros | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=RsJD-6fSFvc) |
 | 16-09-2026 | **Rádio Jovem Pan** | `Constitucional, STF & Política` | STF vai abrir investigação contra Moraes? Advogado analisa | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=HZyLHDSB_nE) |

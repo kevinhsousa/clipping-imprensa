@@ -1,7 +1,7 @@
 # 🏛️ Central de Acervo & Mídia — Dr. Kevin de Sousa
 > **Sousa & Rosa Advogados Associados** | OAB/PR 96.292 · OAB/SC 71.324  
 > *Acervo Consolidado M2 Comunicação Jurídica (2024 – 2026)*  
-> **Total de Registros:** 849 participações | **Vídeos:** 87 | **Áudios/Rádios:** 76 | **Reportagens:** 666 | **Impressos:** 20
+> **Total de Registros:** 850 participações | **Vídeos:** 87 | **Áudios/Rádios:** 76 | **Reportagens:** 667 | **Impressos:** 20
 
 ---
 
@@ -209,10 +209,11 @@
 
 ---
 
-## 📰 Reportagens Escritas em Portais (666 matérias)
+## 📰 Reportagens Escritas em Portais (667 matérias)
 
 | Data | Portal / Veículo | Domínio | Macroárea | Manchete / Notícia | Link Original |
 |---|---|---|---|---|---|
+| 25-09-2026 | **BRA 1** | `bra1.com.br` | `Direito Empresarial & Outros` | Abuso de dinheiro e bens de idosos: como identificar a fraude que começa dentro de casa | [Ler Matéria ↗](https://www.bra1.com.br/geral/id-697006/abuso_de_dinheiro_e_bens_de_idosos__como_identificar_a_fraude_que_comeca_dentro_de_casa) |
 | 22-09-2026 | **Primeira Hora** | `primeirahora.com.br` | `Constitucional, STF & Política` | Reforma no Judiciário: confira quais são as propostas de novas regras para o Supremo | [Ler Matéria ↗](https://primeirahora.com.br/reforma-no-judiciario-confira-quais-sao-as-propostas-de-novas-regras-para-o-supremo/) |
 | 21-09-2026 | **O Crente News** | `ocrente.com.br` | `Constitucional, STF & Política` | Crise no STF Abala Confiança na Justiça e Pode Impactar Eleições de 2026 | [Ler Matéria ↗](https://ocrente.com.br/crise-stf-impacto-eleicoes-2026/) |
 | 21-09-2026 | **Central Sul News** | `centralsulnews.com` | `Constitucional, STF & Política` | Crise no STF impacta a justiça brasileira e as eleições de 2022 | [Ler Matéria ↗](https://centralsulnews.com/crise-no-stf-impacta-a-justica-brasileira-e-as-eleicoes-de-2022/) |

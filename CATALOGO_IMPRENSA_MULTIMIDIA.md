@@ -1,7 +1,7 @@
 # 🏛️ Central de Acervo & Mídia — Dr. Kevin de Sousa
 > **Sousa & Rosa Advogados Associados** | OAB/PR 96.292 · OAB/SC 71.324  
 > *Acervo Consolidado M2 Comunicação Jurídica (2024 – 2026)*  
-> **Total de Registros:** 850 participações | **Vídeos:** 87 | **Áudios/Rádios:** 76 | **Reportagens:** 667 | **Impressos:** 20
+> **Total de Registros:** 856 participações | **Vídeos:** 87 | **Áudios/Rádios:** 77 | **Reportagens:** 672 | **Impressos:** 20
 
 ---
 
@@ -99,10 +99,11 @@
 
 ---
 
-## 🎙️ Áudios, Rádios e Podcasts (76 itens)
+## 🎙️ Áudios, Rádios e Podcasts (77 itens)
 
 | Data | Emissora / Programa | Pauta | Título do Áudio | Link da Gravação |
 |---|---|---|---|---|
+| 28-09-2026 | **​ - Rádio Senado | Conexão Senado** | `Planejamento Sucessório & Família` | ​Violência patrimonial e financeiro contra os idosos | [Ouvir Áudio ↗](https://m2comunicacaojuridica-my.sharepoint.com/:u:/g/personal/clipagem_m2comunicacao_com_br/IQArjM6T5uuGRb4CuHKKLnV7AbOG3PjB1Vkv_u9zl8QP2ls?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rIcsal) |
 | 10-09-2026 | **Portal das Rádios** | `Planejamento Sucessório & Família` | Nova regra permite conclusão de inventário antes de pagamento do ITCMD; o que muda para herdeiros? | [Ouvir Áudio ↗](https://portaldasradios.com.br/noticias/155708) |
 | 02-09-2026 | **Rádio Nacional | Tarde Nacional** | `Planejamento Sucessório & Família` | Filho e noivado não bastam para caracterizar união estável, decide STJ | [Ouvir Áudio ↗](https://radionacional.ebc.com.br/programas/tarde-nacional-brasilia/filho-e-noivado-nao-bastam-para-caracterizar-uniao-estavel-decide-stj) |
 | 27-08-2026 | **Portal das Rádios** | `Direito Imobiliário` | Vai alugar sem fiador? Entenda as diferenças entre as garantias disponíveis | [Ouvir Áudio ↗](https://portaldasradios.com.br/noticias/138153) |
@@ -209,10 +210,15 @@
 
 ---
 
-## 📰 Reportagens Escritas em Portais (667 matérias)
+## 📰 Reportagens Escritas em Portais (672 matérias)
 
 | Data | Portal / Veículo | Domínio | Macroárea | Manchete / Notícia | Link Original |
 |---|---|---|---|---|---|
+| 29-09-2026 | **Jornal do Senado** | `www12.senado.leg.br` | `Planejamento Sucessório & Família` | Como identificar a violência patrimonial e financeira contra idosos | [Ler Matéria ↗](https://www12.senado.leg.br/radio/1/conexao-senado/2026/09/28/como-identificar-a-violencia-patrimonial-e-financeira-contra-idosos) |
+| 28-09-2026 | **Alagoas na Net** | `alagoasnanet.com.br` | `Direito Empresarial & Outros` | Abuso patrimonial contra idosos: quando o cuidado esconde riscos | [Ler Matéria ↗](https://www.alagoasnanet.com.br/noticia/17447/santana-do-ipanema/noticias/abuso-patrimonial-contra-idosos-quando-o-cuidado-esconde-riscos.html) |
+| 28-09-2026 | **Rondônia ao Vivo** | `rondoniaovivo.com` | `Direito Empresarial & Outros` | FORA DO CONTRATO: Plano reajustou tarifa do celular; quais os meus direitos? | [Ler Matéria ↗](https://www.rondoniaovivo.com/noticia/geral/2026/09/27/fora-do-contrato-plano-reajustou-tarifa-do-celular-quais-os-meus-direitos.html) |
+| 28-09-2026 | **Correio Regional São Paulo** | `crsaopaulo.com.br` | `Direito Empresarial & Outros` | Abuso patrimonial contra idosos pode começar dentro de casa e se esconder sob aparência de cuidado | [Ler Matéria ↗](https://www.crsaopaulo.com.br/noticia/abuso-patrimonial-contra-idosos-pode-comecar-dentro-de-casa-e-se-esconder-sob-aparencia-de-cuidado) |
+| 28-09-2026 | **Pedro Ribeiro** | `pedroribeironoticias.com.br` | `Direito Empresarial & Outros` | Abuso patrimonial contra idosos pode começar dentro de casa e se esconder sob aparência de cuidado | [Ler Matéria ↗](https://pedroribeironoticias.com.br/2026/09/28/abuso-patrimonial-contra-idosos-pode-comecar-dentro-de-casa-e-se-esconder-sob-aparencia-de-cuidado/) |
 | 25-09-2026 | **BRA 1** | `bra1.com.br` | `Direito Empresarial & Outros` | Abuso de dinheiro e bens de idosos: como identificar a fraude que começa dentro de casa | [Ler Matéria ↗](https://www.bra1.com.br/geral/id-697006/abuso_de_dinheiro_e_bens_de_idosos__como_identificar_a_fraude_que_comeca_dentro_de_casa) |
 | 22-09-2026 | **Primeira Hora** | `primeirahora.com.br` | `Constitucional, STF & Política` | Reforma no Judiciário: confira quais são as propostas de novas regras para o Supremo | [Ler Matéria ↗](https://primeirahora.com.br/reforma-no-judiciario-confira-quais-sao-as-propostas-de-novas-regras-para-o-supremo/) |
 | 21-09-2026 | **O Crente News** | `ocrente.com.br` | `Constitucional, STF & Política` | Crise no STF Abala Confiança na Justiça e Pode Impactar Eleições de 2026 | [Ler Matéria ↗](https://ocrente.com.br/crise-stf-impacto-eleicoes-2026/) |

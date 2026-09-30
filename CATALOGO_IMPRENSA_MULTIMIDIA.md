@@ -1,14 +1,15 @@
 # 🏛️ Central de Acervo & Mídia — Dr. Kevin de Sousa
 > **Sousa & Rosa Advogados Associados** | OAB/PR 96.292 · OAB/SC 71.324  
 > *Acervo Consolidado M2 Comunicação Jurídica (2024 – 2026)*  
-> **Total de Registros:** 856 participações | **Vídeos:** 87 | **Áudios/Rádios:** 77 | **Reportagens:** 672 | **Impressos:** 20
+> **Total de Registros:** 859 participações | **Vídeos:** 88 | **Áudios/Rádios:** 77 | **Reportagens:** 674 | **Impressos:** 20
 
 ---
 
-## 🎬 Vídeos e Entrevistas em Vídeo (87 itens)
+## 🎬 Vídeos e Entrevistas em Vídeo (88 itens)
 
 | Data | Veículo | Pauta / Tema | Título da Matéria / Vídeo | Link Direto |
 |---|---|---|---|---|
+| 30-09-2026 | **YouTube (Vídeo / Entrevista)** | `Direito Empresarial & Outros` | Como identificar violência financeira contra idosos | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=QhGFpaiNItc) |
 | 23-09-2026 | **YouTube (Vídeo / Entrevista)** | `Recuperação Judicial & Falência` | Comprou e a empresa pediu recuperação judicial. E agora? | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=WbPR0DxXH4Q) |
 | 17-09-2026 | **BM&C News** | `Constitucional, STF & Política` | STF em impasse: quais os próximos passos nos casos Moraes e Mendonça? | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=IOs2umRa18A) |
 | 17-09-2026 | **BM&C News** | `Constitucional, STF & Política` | Sessão tensa no STF expõe crise de confiança e polarização entre ministros | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=RsJD-6fSFvc) |
@@ -210,10 +211,12 @@
 
 ---
 
-## 📰 Reportagens Escritas em Portais (672 matérias)
+## 📰 Reportagens Escritas em Portais (674 matérias)
 
 | Data | Portal / Veículo | Domínio | Macroárea | Manchete / Notícia | Link Original |
 |---|---|---|---|---|---|
+| 30-09-2026 | **Revista Forúm** | `revistaforum.com.br` | `Direito Empresarial & Outros` | Investigação de Daniel Vorcaro, do Master, sobre Dark Horse será paralisada se Flávio Bolsonaro for eleito | [Ler Matéria ↗](https://revistaforum.com.br/politica/investigacao-de-daniel-vorcaro-paralisada-se-flavio-bolsonaro-for-eleito/) |
+| 30-09-2026 | **UOL** | `uol.com.br` | `Direito Empresarial & Outros` | Investigação sobre 'Dark Horse' deve ser suspensa se Flávio for eleito | [Ler Matéria ↗](https://noticias.uol.com.br/eleicoes/2026/09/30/se-eleito-investigacoes-contra-flavio-bolsonaro-ficam-suspensas.ghtm) |
 | 29-09-2026 | **Jornal do Senado** | `www12.senado.leg.br` | `Planejamento Sucessório & Família` | Como identificar a violência patrimonial e financeira contra idosos | [Ler Matéria ↗](https://www12.senado.leg.br/radio/1/conexao-senado/2026/09/28/como-identificar-a-violencia-patrimonial-e-financeira-contra-idosos) |
 | 28-09-2026 | **Alagoas na Net** | `alagoasnanet.com.br` | `Direito Empresarial & Outros` | Abuso patrimonial contra idosos: quando o cuidado esconde riscos | [Ler Matéria ↗](https://www.alagoasnanet.com.br/noticia/17447/santana-do-ipanema/noticias/abuso-patrimonial-contra-idosos-quando-o-cuidado-esconde-riscos.html) |
 | 28-09-2026 | **Rondônia ao Vivo** | `rondoniaovivo.com` | `Direito Empresarial & Outros` | FORA DO CONTRATO: Plano reajustou tarifa do celular; quais os meus direitos? | [Ler Matéria ↗](https://www.rondoniaovivo.com/noticia/geral/2026/09/27/fora-do-contrato-plano-reajustou-tarifa-do-celular-quais-os-meus-direitos.html) |

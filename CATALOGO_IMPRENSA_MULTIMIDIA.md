@@ -1,14 +1,15 @@
 # 🏛️ Central de Acervo & Mídia — Dr. Kevin de Sousa
 > **Sousa & Rosa Advogados Associados** | OAB/PR 96.292 · OAB/SC 71.324  
 > *Acervo Consolidado M2 Comunicação Jurídica (2024 – 2026)*  
-> **Total de Registros:** 859 participações | **Vídeos:** 88 | **Áudios/Rádios:** 77 | **Reportagens:** 674 | **Impressos:** 20
+> **Total de Registros:** 865 participações | **Vídeos:** 89 | **Áudios/Rádios:** 77 | **Reportagens:** 679 | **Impressos:** 20
 
 ---
 
-## 🎬 Vídeos e Entrevistas em Vídeo (88 itens)
+## 🎬 Vídeos e Entrevistas em Vídeo (89 itens)
 
 | Data | Veículo | Pauta / Tema | Título da Matéria / Vídeo | Link Direto |
 |---|---|---|---|---|
+| 02-10-2026 | **YouTube (Vídeo / Entrevista)** | `Direito Empresarial & Outros` | Pesquisa alerta sobre abuso patrimonial contra idosos | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=xGzCTkMxVVI) |
 | 30-09-2026 | **YouTube (Vídeo / Entrevista)** | `Direito Empresarial & Outros` | Como identificar violência financeira contra idosos | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=QhGFpaiNItc) |
 | 23-09-2026 | **YouTube (Vídeo / Entrevista)** | `Recuperação Judicial & Falência` | Comprou e a empresa pediu recuperação judicial. E agora? | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=WbPR0DxXH4Q) |
 | 17-09-2026 | **BM&C News** | `Constitucional, STF & Política` | STF em impasse: quais os próximos passos nos casos Moraes e Mendonça? | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=IOs2umRa18A) |
@@ -211,10 +212,15 @@
 
 ---
 
-## 📰 Reportagens Escritas em Portais (674 matérias)
+## 📰 Reportagens Escritas em Portais (679 matérias)
 
 | Data | Portal / Veículo | Domínio | Macroárea | Manchete / Notícia | Link Original |
 |---|---|---|---|---|---|
+| 02-10-2026 | **ALERTA ESPÍRITO SANTO** | `alertaespiritosanto.com.br` | `Planejamento Sucessório & Família` | Dia do Idoso: como proteger patrimônio e autonomia – inclusive da própria família | [Ler Matéria ↗](https://alertaespiritosanto.com.br/noticia/15983/dia-do-idoso-como-proteger-patrimonio-e-autonomia-inclusive-da-propria-familia.html) |
+| 02-10-2026 | **Lauro Emancipada** | `lauroemancipada.com.br` | `Planejamento Sucessório & Família` | Dia do Idoso: como proteger patrimônio e autonomia – inclusive da própria família | [Ler Matéria ↗](https://lauroemancipada.com.br/dia-do-idoso-como-proteger-patrimonio-e-autonomia-inclusive-da-propria-familia/) |
+| 02-10-2026 | **IstoÉ Valor** | `valor.globo.com` | `Planejamento Sucessório & Família` | Dia do Idoso: como proteger patrimônio e autonomia – inclusive da própria família | [Ler Matéria ↗](https://istoevalor.com.br/dia-do-idoso-como-proteger-patrimonio-e-autonomia-inclusive-da-propria-familia/) |
+| 02-10-2026 | **Brasil em Folhas** | `uol.com.br` | `Direito Empresarial & Outros` | Familiares são autores da maioria dos casos de violência financeira contra idosos | [Ler Matéria ↗](https://www.brasilemfolhas.com.br/2026/10/familiares-sao-autores-da-maioria-dos-casos-de-violencia-financeira-contra-idosos/) |
+| 02-10-2026 | **InfoMoney** | `infomoney.com.br` | `Planejamento Sucessório & Família` | Dia do Idoso: como proteger patrimônio e autonomia – inclusive da própria família | [Ler Matéria ↗](https://www.infomoney.com.br/minhas-financas/dia-do-idoso-como-proteger-patrimonio-e-autonomia-inclusive-da-propria-familia/) |
 | 30-09-2026 | **Revista Forúm** | `revistaforum.com.br` | `Direito Empresarial & Outros` | Investigação de Daniel Vorcaro, do Master, sobre Dark Horse será paralisada se Flávio Bolsonaro for eleito | [Ler Matéria ↗](https://revistaforum.com.br/politica/investigacao-de-daniel-vorcaro-paralisada-se-flavio-bolsonaro-for-eleito/) |
 | 30-09-2026 | **UOL** | `uol.com.br` | `Direito Empresarial & Outros` | Investigação sobre 'Dark Horse' deve ser suspensa se Flávio for eleito | [Ler Matéria ↗](https://noticias.uol.com.br/eleicoes/2026/09/30/se-eleito-investigacoes-contra-flavio-bolsonaro-ficam-suspensas.ghtm) |
 | 29-09-2026 | **Jornal do Senado** | `www12.senado.leg.br` | `Planejamento Sucessório & Família` | Como identificar a violência patrimonial e financeira contra idosos | [Ler Matéria ↗](https://www12.senado.leg.br/radio/1/conexao-senado/2026/09/28/como-identificar-a-violencia-patrimonial-e-financeira-contra-idosos) |

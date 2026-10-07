@@ -1,7 +1,7 @@
 # 🏛️ Central de Acervo & Mídia — Dr. Kevin de Sousa
 > **Sousa & Rosa Advogados Associados** | OAB/PR 96.292 · OAB/SC 71.324  
 > *Acervo Consolidado M2 Comunicação Jurídica (2024 – 2026)*  
-> **Total de Registros:** 865 participações | **Vídeos:** 89 | **Áudios/Rádios:** 77 | **Reportagens:** 679 | **Impressos:** 20
+> **Total de Registros:** 866 participações | **Vídeos:** 89 | **Áudios/Rádios:** 77 | **Reportagens:** 680 | **Impressos:** 20
 
 ---
 
@@ -212,10 +212,11 @@
 
 ---
 
-## 📰 Reportagens Escritas em Portais (679 matérias)
+## 📰 Reportagens Escritas em Portais (680 matérias)
 
 | Data | Portal / Veículo | Domínio | Macroárea | Manchete / Notícia | Link Original |
 |---|---|---|---|---|---|
+| 07-10-2026 | **UOL** | `uol.com.br` | `Direito Empresarial & Outros` | Se eleito, Flávio Bolsonaro deixa de ser investigado no caso 'Dark Horse' | [Ler Matéria ↗](https://noticias.uol.com.br/eleicoes/2026/10/06/se-eleito-flavio-bolsonaro-deixa-de-ser-investigado-no-caso-dark-horse.ghtm) |
 | 02-10-2026 | **ALERTA ESPÍRITO SANTO** | `alertaespiritosanto.com.br` | `Planejamento Sucessório & Família` | Dia do Idoso: como proteger patrimônio e autonomia – inclusive da própria família | [Ler Matéria ↗](https://alertaespiritosanto.com.br/noticia/15983/dia-do-idoso-como-proteger-patrimonio-e-autonomia-inclusive-da-propria-familia.html) |
 | 02-10-2026 | **Lauro Emancipada** | `lauroemancipada.com.br` | `Planejamento Sucessório & Família` | Dia do Idoso: como proteger patrimônio e autonomia – inclusive da própria família | [Ler Matéria ↗](https://lauroemancipada.com.br/dia-do-idoso-como-proteger-patrimonio-e-autonomia-inclusive-da-propria-familia/) |
 | 02-10-2026 | **IstoÉ Valor** | `valor.globo.com` | `Planejamento Sucessório & Família` | Dia do Idoso: como proteger patrimônio e autonomia – inclusive da própria família | [Ler Matéria ↗](https://istoevalor.com.br/dia-do-idoso-como-proteger-patrimonio-e-autonomia-inclusive-da-propria-familia/) |

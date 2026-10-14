@@ -1,7 +1,7 @@
 # 🏛️ Central de Acervo & Mídia — Dr. Kevin de Sousa
 > **Sousa & Rosa Advogados Associados** | OAB/PR 96.292 · OAB/SC 71.324  
 > *Acervo Consolidado M2 Comunicação Jurídica (2024 – 2026)*  
-> **Total de Registros:** 866 participações | **Vídeos:** 89 | **Áudios/Rádios:** 77 | **Reportagens:** 680 | **Impressos:** 20
+> **Total de Registros:** 878 participações | **Vídeos:** 89 | **Áudios/Rádios:** 78 | **Reportagens:** 691 | **Impressos:** 20
 
 ---
 
@@ -101,10 +101,11 @@
 
 ---
 
-## 🎙️ Áudios, Rádios e Podcasts (77 itens)
+## 🎙️ Áudios, Rádios e Podcasts (78 itens)
 
 | Data | Emissora / Programa | Pauta | Título do Áudio | Link da Gravação |
 |---|---|---|---|---|
+| 09-10-2026 | **Rádio Show SP** | `Direito Empresarial & Outros` | Calcule o novo valor e entenda a regra | [Ouvir Áudio ↗](https://shownewssp.com.br/calcule-o-novo-valor-e-entenda-a-regra/) |
 | 28-09-2026 | **​ - Rádio Senado | Conexão Senado** | `Planejamento Sucessório & Família` | ​Violência patrimonial e financeiro contra os idosos | [Ouvir Áudio ↗](https://m2comunicacaojuridica-my.sharepoint.com/:u:/g/personal/clipagem_m2comunicacao_com_br/IQArjM6T5uuGRb4CuHKKLnV7AbOG3PjB1Vkv_u9zl8QP2ls?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rIcsal) |
 | 10-09-2026 | **Portal das Rádios** | `Planejamento Sucessório & Família` | Nova regra permite conclusão de inventário antes de pagamento do ITCMD; o que muda para herdeiros? | [Ouvir Áudio ↗](https://portaldasradios.com.br/noticias/155708) |
 | 02-09-2026 | **Rádio Nacional | Tarde Nacional** | `Planejamento Sucessório & Família` | Filho e noivado não bastam para caracterizar união estável, decide STJ | [Ouvir Áudio ↗](https://radionacional.ebc.com.br/programas/tarde-nacional-brasilia/filho-e-noivado-nao-bastam-para-caracterizar-uniao-estavel-decide-stj) |
@@ -212,10 +213,21 @@
 
 ---
 
-## 📰 Reportagens Escritas em Portais (680 matérias)
+## 📰 Reportagens Escritas em Portais (691 matérias)
 
 | Data | Portal / Veículo | Domínio | Macroárea | Manchete / Notícia | Link Original |
 |---|---|---|---|---|---|
+| 14-10-2026 | **Alto Astral** | `altoastral.joaobidu.com.br` | `Penal Econômico & Crimes Digitais` | Revisão criminal de Adriana em Quem Ama Cuida: o que a lei diz? | [Ler Matéria ↗](https://altoastral.joaobidu.com.br/noticias/revisao-criminal-de-adriana-em-quem-ama-cuida-o-que-a-lei-diz.phtml#google_vignette) |
+| 14-10-2026 | **Bossa News** | `br.bossanews.com` | `Penal Econômico & Crimes Digitais` | Revisão Criminal de Adriana em ‘Quem Ama Cuida’ recebe aval do MP e traz temas jurídicos | [Ler Matéria ↗](https://br.bossanews.com/revisao-criminal-de-adriana-em-quem-ama-cuida-recebe-aval-do-mp-e-traz-temas-juridicos/) |
+| 14-10-2026 | **Portal Terra** | `terra.com.br` | `Penal Econômico & Crimes Digitais` | Revisão Criminal de Adriana em 'Quem Ama Cuida': Virada na Trama e Temas Jurídicos | [Ler Matéria ↗](https://www.terra.com.br/noticias/revisao-criminal-de-adriana-em-quem-ama-cuida-virada-na-trama-e-temas-juridicos,41902848442938cec440b6dc78352fb18d1gz7w9.html) |
+| 13-10-2026 | **TV Cidade de Limeira** | `tvcidadelimeira.com.br` | `Planejamento Sucessório & Família` | Revisão criminal de Adriana em Quem Ama Cuida pode reverter condenação e abrir caminho para recuperação de herança | [Ler Matéria ↗](https://tvcidadelimeira.com.br/revisao-criminal-de-adriana-em-quem-ama-cuida-pode-reverter-condenacao-e-abrir-caminho-para-recuperacao-de-heranca/) |
+| 13-10-2026 | **MAPA DO DIA** | `mapadodia.com` | `Planejamento Sucessório & Família` | CNJ permite formalizar inventário antes do pagamento do ITCMD | [Ler Matéria ↗](https://mapadodia.com/economia/inventario-antes-pagamento-itcmd/) |
+| 13-10-2026 | **Diário do Comércio** | `diariodocomercio.com.br` | `Planejamento Sucessório & Família` | Inventário pode ser feito antes do pagamento do imposto; entenda o que muda | [Ler Matéria ↗](https://diariodocomercio.com.br/legislacao/fazer-inventario-pagar-imposto/) |
+| 09-10-2026 | **Rondônia Dinâmica** | `rondoniadinamica.com` | `Recuperação Judicial & Falência` | Pedro Scooby vira réu após doméstica descobrir dívida milionária | [Ler Matéria ↗](https://www.rondoniadinamica.com/noticias/2026/10/pedro-scooby-vira-reu-apos-domestica-descobrir-divida-milionaria,256097.shtml) |
+| 09-10-2026 | **Revista Simples** | `revistasimples.com.br` | `Recuperação Judicial & Falência` | Pedro Scooby vira réu após doméstica descobrir dívida milionária | [Ler Matéria ↗](https://revistasimples.com.br/pedro-scooby-vira-reu-apos-domestica-descobrir-divida-milionaria) |
+| 09-10-2026 | **Portal iG** | `ig.com.br` | `Recuperação Judicial & Falência` | Pedro Scooby vira réu após doméstica descobrir dívida milionária | [Ler Matéria ↗](https://gente.ig.com.br/celebridades/2026-10-08/pedro-scooby-vira-reu-apos-domestica-descobrir-cinco-empresas-e-divida-de-r--1-milhao.html) |
+| 09-10-2026 | **Vanity Brasil** | `vanitybrasil.com.br` | `Direito Empresarial & Outros` | Pedro Scooby é réu em ação movida por ex‑empregada doméstica do pai | [Ler Matéria ↗](https://vanitybrasil.com.br/pedro-scooby-e-reu-em-acao-movida-por-ex-empregada-domestica-do-pai/) |
+| 09-10-2026 | **Portas** | `portas.com.br` | `Direito Imobiliário` | Reajuste de aluguel: calcule o novo valor e entenda a regra | [Ler Matéria ↗](https://portas.com.br/noticias/reajuste-de-aluguel-calcule-o-novo-valor-e-entenda-a-regra/) |
 | 07-10-2026 | **UOL** | `uol.com.br` | `Direito Empresarial & Outros` | Se eleito, Flávio Bolsonaro deixa de ser investigado no caso 'Dark Horse' | [Ler Matéria ↗](https://noticias.uol.com.br/eleicoes/2026/10/06/se-eleito-flavio-bolsonaro-deixa-de-ser-investigado-no-caso-dark-horse.ghtm) |
 | 02-10-2026 | **ALERTA ESPÍRITO SANTO** | `alertaespiritosanto.com.br` | `Planejamento Sucessório & Família` | Dia do Idoso: como proteger patrimônio e autonomia – inclusive da própria família | [Ler Matéria ↗](https://alertaespiritosanto.com.br/noticia/15983/dia-do-idoso-como-proteger-patrimonio-e-autonomia-inclusive-da-propria-familia.html) |
 | 02-10-2026 | **Lauro Emancipada** | `lauroemancipada.com.br` | `Planejamento Sucessório & Família` | Dia do Idoso: como proteger patrimônio e autonomia – inclusive da própria família | [Ler Matéria ↗](https://lauroemancipada.com.br/dia-do-idoso-como-proteger-patrimonio-e-autonomia-inclusive-da-propria-familia/) |

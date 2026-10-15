@@ -1,14 +1,15 @@
 # 🏛️ Central de Acervo & Mídia — Dr. Kevin de Sousa
 > **Sousa & Rosa Advogados Associados** | OAB/PR 96.292 · OAB/SC 71.324  
 > *Acervo Consolidado M2 Comunicação Jurídica (2024 – 2026)*  
-> **Total de Registros:** 878 participações | **Vídeos:** 89 | **Áudios/Rádios:** 78 | **Reportagens:** 691 | **Impressos:** 20
+> **Total de Registros:** 880 participações | **Vídeos:** 90 | **Áudios/Rádios:** 78 | **Reportagens:** 692 | **Impressos:** 20
 
 ---
 
-## 🎬 Vídeos e Entrevistas em Vídeo (89 itens)
+## 🎬 Vídeos e Entrevistas em Vídeo (90 itens)
 
 | Data | Veículo | Pauta / Tema | Título da Matéria / Vídeo | Link Direto |
 |---|---|---|---|---|
+| 15-10-2026 | **YouTube (Vídeo / Entrevista)** | `Direito Empresarial & Outros` | Filha de prefeito de Coronel Ezequiel (RN) é encontrada em Portugal após viajar sem avisar os pais | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=wDtE6zCwA6U) |
 | 02-10-2026 | **YouTube (Vídeo / Entrevista)** | `Direito Empresarial & Outros` | Pesquisa alerta sobre abuso patrimonial contra idosos | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=xGzCTkMxVVI) |
 | 30-09-2026 | **YouTube (Vídeo / Entrevista)** | `Direito Empresarial & Outros` | Como identificar violência financeira contra idosos | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=QhGFpaiNItc) |
 | 23-09-2026 | **YouTube (Vídeo / Entrevista)** | `Recuperação Judicial & Falência` | Comprou e a empresa pediu recuperação judicial. E agora? | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=WbPR0DxXH4Q) |
@@ -213,10 +214,11 @@
 
 ---
 
-## 📰 Reportagens Escritas em Portais (691 matérias)
+## 📰 Reportagens Escritas em Portais (692 matérias)
 
 | Data | Portal / Veículo | Domínio | Macroárea | Manchete / Notícia | Link Original |
 |---|---|---|---|---|---|
+| 15-10-2026 | **Record / R7** | `r7.com` | `Direito Empresarial & Outros` | Filha de prefeito de Coronel Ezequiel (RN) é encontrada em Portugal após viajar sem avisar os pais | [Ler Matéria ↗](https://record.r7.com/fala-brasil/video/filha-de-prefeito-de-coronel-ezequiel-rn-e-encontrada-em-portugal-apos-viajar-sem-avisar-os-pais-14102026/) |
 | 14-10-2026 | **Alto Astral** | `altoastral.joaobidu.com.br` | `Penal Econômico & Crimes Digitais` | Revisão criminal de Adriana em Quem Ama Cuida: o que a lei diz? | [Ler Matéria ↗](https://altoastral.joaobidu.com.br/noticias/revisao-criminal-de-adriana-em-quem-ama-cuida-o-que-a-lei-diz.phtml#google_vignette) |
 | 14-10-2026 | **Bossa News** | `br.bossanews.com` | `Penal Econômico & Crimes Digitais` | Revisão Criminal de Adriana em ‘Quem Ama Cuida’ recebe aval do MP e traz temas jurídicos | [Ler Matéria ↗](https://br.bossanews.com/revisao-criminal-de-adriana-em-quem-ama-cuida-recebe-aval-do-mp-e-traz-temas-juridicos/) |
 | 14-10-2026 | **Portal Terra** | `terra.com.br` | `Penal Econômico & Crimes Digitais` | Revisão Criminal de Adriana em 'Quem Ama Cuida': Virada na Trama e Temas Jurídicos | [Ler Matéria ↗](https://www.terra.com.br/noticias/revisao-criminal-de-adriana-em-quem-ama-cuida-virada-na-trama-e-temas-juridicos,41902848442938cec440b6dc78352fb18d1gz7w9.html) |

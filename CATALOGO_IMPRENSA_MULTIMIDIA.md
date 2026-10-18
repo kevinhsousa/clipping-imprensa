@@ -1,14 +1,15 @@
 # 🏛️ Central de Acervo & Mídia — Dr. Kevin de Sousa
 > **Sousa & Rosa Advogados Associados** | OAB/PR 96.292 · OAB/SC 71.324  
 > *Acervo Consolidado M2 Comunicação Jurídica (2024 – 2026)*  
-> **Total de Registros:** 880 participações | **Vídeos:** 90 | **Áudios/Rádios:** 78 | **Reportagens:** 692 | **Impressos:** 20
+> **Total de Registros:** 882 participações | **Vídeos:** 91 | **Áudios/Rádios:** 78 | **Reportagens:** 693 | **Impressos:** 20
 
 ---
 
-## 🎬 Vídeos e Entrevistas em Vídeo (90 itens)
+## 🎬 Vídeos e Entrevistas em Vídeo (91 itens)
 
 | Data | Veículo | Pauta / Tema | Título da Matéria / Vídeo | Link Direto |
 |---|---|---|---|---|
+| 16-10-2026 | **MSN Brasil** | `Direito Empresarial & Outros` | Justiça não devolve o tempo perdido: caso de Adriana, de Quem Ama Cuida, mostra por que provar a inocência não resolve tudo, apontam advogados; aos detalhes! | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=ar-AA2ejI3E) |
 | 15-10-2026 | **YouTube (Vídeo / Entrevista)** | `Direito Empresarial & Outros` | Filha de prefeito de Coronel Ezequiel (RN) é encontrada em Portugal após viajar sem avisar os pais | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=wDtE6zCwA6U) |
 | 02-10-2026 | **YouTube (Vídeo / Entrevista)** | `Direito Empresarial & Outros` | Pesquisa alerta sobre abuso patrimonial contra idosos | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=xGzCTkMxVVI) |
 | 30-09-2026 | **YouTube (Vídeo / Entrevista)** | `Direito Empresarial & Outros` | Como identificar violência financeira contra idosos | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=QhGFpaiNItc) |
@@ -214,10 +215,11 @@
 
 ---
 
-## 📰 Reportagens Escritas em Portais (692 matérias)
+## 📰 Reportagens Escritas em Portais (693 matérias)
 
 | Data | Portal / Veículo | Domínio | Macroárea | Manchete / Notícia | Link Original |
 |---|---|---|---|---|---|
+| 16-10-2026 | **Purepeople** | `purepeople.com.br` | `Direito Empresarial & Outros` | 'Justiça não devolve o tempo perdido': caso de Adriana, de ‘Quem Ama Cuida’, mostra por que provar a inocência não resolve tudo, apontam advogados; aos detalhes! | [Ler Matéria ↗](https://www.purepeople.com.br/noticia/novela-quem-ama-cuida-adriana-prova-sua-inocencia-na-justica-e-conquista-a-liberdade-mas-advogados-alertam-que-a-luta-esta-longe-de-acabar_a425327/1) |
 | 15-10-2026 | **Record / R7** | `r7.com` | `Direito Empresarial & Outros` | Filha de prefeito de Coronel Ezequiel (RN) é encontrada em Portugal após viajar sem avisar os pais | [Ler Matéria ↗](https://record.r7.com/fala-brasil/video/filha-de-prefeito-de-coronel-ezequiel-rn-e-encontrada-em-portugal-apos-viajar-sem-avisar-os-pais-14102026/) |
 | 14-10-2026 | **Alto Astral** | `altoastral.joaobidu.com.br` | `Penal Econômico & Crimes Digitais` | Revisão criminal de Adriana em Quem Ama Cuida: o que a lei diz? | [Ler Matéria ↗](https://altoastral.joaobidu.com.br/noticias/revisao-criminal-de-adriana-em-quem-ama-cuida-o-que-a-lei-diz.phtml#google_vignette) |
 | 14-10-2026 | **Bossa News** | `br.bossanews.com` | `Penal Econômico & Crimes Digitais` | Revisão Criminal de Adriana em ‘Quem Ama Cuida’ recebe aval do MP e traz temas jurídicos | [Ler Matéria ↗](https://br.bossanews.com/revisao-criminal-de-adriana-em-quem-ama-cuida-recebe-aval-do-mp-e-traz-temas-juridicos/) |

@@ -1,14 +1,16 @@
 # 🏛️ Central de Acervo & Mídia — Dr. Kevin de Sousa
 > **Sousa & Rosa Advogados Associados** | OAB/PR 96.292 · OAB/SC 71.324  
 > *Acervo Consolidado M2 Comunicação Jurídica (2024 – 2026)*  
-> **Total de Registros:** 882 participações | **Vídeos:** 91 | **Áudios/Rádios:** 78 | **Reportagens:** 693 | **Impressos:** 20
+> **Total de Registros:** 891 participações | **Vídeos:** 93 | **Áudios/Rádios:** 78 | **Reportagens:** 700 | **Impressos:** 20
 
 ---
 
-## 🎬 Vídeos e Entrevistas em Vídeo (91 itens)
+## 🎬 Vídeos e Entrevistas em Vídeo (93 itens)
 
 | Data | Veículo | Pauta / Tema | Título da Matéria / Vídeo | Link Direto |
 |---|---|---|---|---|
+| 26-10-2026 | **MSN Brasil** | `Direito Empresarial & Outros` | Absolvida, Adriana tem nova vingança para reparar injustiça em Quem Ama Cuida | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=ar-AA2fVAkD) |
+| 23-10-2026 | **MSN Brasil** | `Planejamento Sucessório & Família` | Adriana recupera herança de Arthur após absolvição em Quem ama cuida? | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=ar-AA2fSdZx) |
 | 16-10-2026 | **MSN Brasil** | `Direito Empresarial & Outros` | Justiça não devolve o tempo perdido: caso de Adriana, de Quem Ama Cuida, mostra por que provar a inocência não resolve tudo, apontam advogados; aos detalhes! | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=ar-AA2ejI3E) |
 | 15-10-2026 | **YouTube (Vídeo / Entrevista)** | `Direito Empresarial & Outros` | Filha de prefeito de Coronel Ezequiel (RN) é encontrada em Portugal após viajar sem avisar os pais | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=wDtE6zCwA6U) |
 | 02-10-2026 | **YouTube (Vídeo / Entrevista)** | `Direito Empresarial & Outros` | Pesquisa alerta sobre abuso patrimonial contra idosos | [Assistir Vídeo ↗](https://www.youtube.com/watch?v=xGzCTkMxVVI) |
@@ -215,10 +217,17 @@
 
 ---
 
-## 📰 Reportagens Escritas em Portais (693 matérias)
+## 📰 Reportagens Escritas em Portais (700 matérias)
 
 | Data | Portal / Veículo | Domínio | Macroárea | Manchete / Notícia | Link Original |
 |---|---|---|---|---|---|
+| 28-10-2026 | **E-Investidor (Estadão)** | `estadao.com.br` | `Direito Imobiliário` | Contrato de gaveta ou pedir usucapião: saiba qual é a melhor forma para regularizar o imóvel | [Ler Matéria ↗](https://www.estadao.com.br/einvestidor/financas-pessoais/contrato-de-gaveta-usucapiao-regularizar-imovel/?srsltid=AYCX9vK9i2apKkn_lWYc7N63R9rU6E_M1M2a0JG4QRK3-9NgCNttLsno) |
+| 26-10-2026 | **Kwai** | `kwai.com` | `Direito Empresarial & Outros` | Absolvida, Adriana tem nova vingança para reparar injustiça em Quem Ama Cuida | [Ler Matéria ↗](https://www.kwai.com/news/detail/56f584a6-007e-40a5-adb8-a9575a451657) |
+| 26-10-2026 | **Portal Democrata** | `portaldemocrata.com.br` | `Direito Empresarial & Outros` | Adriana busca reparação por injustiça após ser absolvida em Quem Ama Cuida | [Ler Matéria ↗](https://portaldemocrata.com.br/2026/10/23/adriana-busca-reparacao-por-injustica-apos-ser-absolvida-em-quem-ama-cuida/) |
+| 26-10-2026 | **UOL** | `uol.com.br` | `Direito Empresarial & Outros` | Absolvida, Adriana tem nova vingança para reparar injustiça em Quem Ama Cuida | [Ler Matéria ↗](https://noticiasdatv.uol.com.br/mobile/noticia/novelas/absolvida-adriana-tem-nova-vinganca-para-reparar-injustica-em-quem-ama-cuida-158417.amp) |
+| 26-10-2026 | **UOL** | `uol.com.br` | `Direito Empresarial & Outros` | Absolvida, Adriana tem nova vingança para reparar injustiça em Quem Ama Cuida | [Ler Matéria ↗](https://noticiasdatv.uol.com.br/noticia/novelas/absolvida-adriana-tem-nova-vinganca-para-reparar-injustica-em-quem-ama-cuida-158417) |
+| 23-10-2026 | **Portal Democratas** | `portaldemocrata.com.br` | `Planejamento Sucessório & Família` | Adriana é absolvida em Quem Ama Cuida e pode reivindicar herança de Arthur | [Ler Matéria ↗](https://portaldemocrata.com.br/2026/10/22/adriana-e-absolvida-em-quem-ama-cuida-e-pode-reivindicar-heranca-de-arthur/) |
+| 23-10-2026 | **UOL** | `uol.com.br` | `Planejamento Sucessório & Família` | Adriana recupera herança de Arthur após absolvição em Quem Ama Cuida? | [Ler Matéria ↗](https://noticiasdatv.uol.com.br/noticia/novelas/adriana-recupera-heranca-de-arthur-apos-absolvicao-em-quem-ama-cuida-158382) |
 | 16-10-2026 | **Purepeople** | `purepeople.com.br` | `Direito Empresarial & Outros` | 'Justiça não devolve o tempo perdido': caso de Adriana, de ‘Quem Ama Cuida’, mostra por que provar a inocência não resolve tudo, apontam advogados; aos detalhes! | [Ler Matéria ↗](https://www.purepeople.com.br/noticia/novela-quem-ama-cuida-adriana-prova-sua-inocencia-na-justica-e-conquista-a-liberdade-mas-advogados-alertam-que-a-luta-esta-longe-de-acabar_a425327/1) |
 | 15-10-2026 | **Record / R7** | `r7.com` | `Direito Empresarial & Outros` | Filha de prefeito de Coronel Ezequiel (RN) é encontrada em Portugal após viajar sem avisar os pais | [Ler Matéria ↗](https://record.r7.com/fala-brasil/video/filha-de-prefeito-de-coronel-ezequiel-rn-e-encontrada-em-portugal-apos-viajar-sem-avisar-os-pais-14102026/) |
 | 14-10-2026 | **Alto Astral** | `altoastral.joaobidu.com.br` | `Penal Econômico & Crimes Digitais` | Revisão criminal de Adriana em Quem Ama Cuida: o que a lei diz? | [Ler Matéria ↗](https://altoastral.joaobidu.com.br/noticias/revisao-criminal-de-adriana-em-quem-ama-cuida-o-que-a-lei-diz.phtml#google_vignette) |
